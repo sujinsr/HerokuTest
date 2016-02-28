@@ -1,0 +1,5 @@
+{
+	"ImportPath": "blog/HerokuTest",
+	"GoVersion": "go1.6",
+	"Deps": []
+}
